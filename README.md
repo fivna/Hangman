@@ -1,6 +1,7 @@
 # Hangman
 A simple console-based Hangman game implemented in Java. Choose a theme and try to guess a word by suggesting letters within a limited number of wrong guesses.
 
+# Game Instructions
 _Start the Game:_
 - Choose a theme by entering the corresponding number (1 for Fruits, 2 for Animals, 3 for Countries, 4 for Difficult Words)
   A random word from the selected theme will be chosen
